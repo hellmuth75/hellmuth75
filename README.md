@@ -1,4 +1,4 @@
-# 💫About Me :
+# About Me :
 Learning about the capabilities of rasberry pi's.
 
 ## 🌐Socials
